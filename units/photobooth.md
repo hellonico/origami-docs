@@ -4,7 +4,7 @@ Download it from here: [Booth](http://repository.hellonico.info/repository/hello
 
 ### 0.9.2
 
-- Support for native Windows installer
+- Support for native [Windows installer](http://repository.hellonico.info/repository/hellonico/origami/booth-windows/1.0/booth-windows-1.0.exe)
 
 ### 0.9
 
