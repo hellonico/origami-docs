@@ -1,4 +1,4 @@
-Download it from here: [Booth](http://repository.hellonico.info/repository/hellonico/origami/booth/0.8/booth-0.8.jar)
+Download jar file from here: [Booth](http://repository.hellonico.info/repository/hellonico/origami/booth/0.8/booth-0.8.jar)
 
 ## new features  
 
