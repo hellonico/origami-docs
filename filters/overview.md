@@ -22,7 +22,7 @@
 img {
   border-radius: 8px;
     height: 128px;
-    width: 200px;
+    width: 120px;
 }</style>
 </head>
 <div class="row">
