@@ -106,7 +106,7 @@ img {
 <a href="#/filters/filters?id=brandnew.contrastfilter"><img title="brandnew.contrastfilter" alt="brandnew.contrastfilter" src="filters/brandnew.contrastfilter.png"></a>
 <a href="#/filters/filters?id=brandnew.crackedpaper"><img title="brandnew.crackedpaper" alt="brandnew.crackedpaper" src="filters/original.png"></a>
 <a href="#/filters/filters?id=brandnew.diffusinglight"><img title="brandnew.diffusinglight" alt="brandnew.diffusinglight" src="filters/brandnew.diffusinglight.png"></a>
-<a href="#/filters/filters?id=brandnew.diffusinglightwithroi"><img title="brandnew.diffusinglightwithroi" alt="brandnew.diffusinglightwithroi" src="filters/original.png"></a>
+<a href="#/filters/filters?id=brandnew.diffusinglightwithroi"><img title="brandnew.diffusinglightwithroi" alt="brandnew.diffusinglightwithroi" src="filters/brandnew.diffusinglightwithroi.png"></a>
 <a href="#/filters/filters?id=brandnew.fakehdr"><img title="brandnew.fakehdr" alt="brandnew.fakehdr" src="filters/brandnew.fakehdr.png"></a>
 <a href="#/filters/filters?id=brandnew.gammacorrection"><img title="brandnew.gammacorrection" alt="brandnew.gammacorrection" src="filters/brandnew.gammacorrection.png"></a>
 <a href="#/filters/filters?id=brandnew.ghost"><img title="brandnew.ghost" alt="brandnew.ghost" src="filters/brandnew.ghost.png"></a>
@@ -150,7 +150,7 @@ img {
 <a href="#/filters/filters?id=cartoon.cartoon2"><img title="cartoon.cartoon2" alt="cartoon.cartoon2" src="filters/cartoon.cartoon2.png"></a>
 <a href="#/filters/filters?id=cartoon.lutcartoon"><img title="cartoon.lutcartoon" alt="cartoon.lutcartoon" src="filters/cartoon.lutcartoon.png"></a>
 <a href="#/filters/filters?id=cartoon.manga"><img title="cartoon.manga" alt="cartoon.manga" src="filters/cartoon.manga.png"></a>
-<a href="#/filters/filters?id=detect.easttextdetector"><img title="detect.easttextdetector" alt="detect.easttextdetector" src="filters/original.png"></a>
+<a href="#/filters/filters?id=detect.easttextdetector"><img title="detect.easttextdetector" alt="detect.easttextdetector" src="filters/detect.easttextdetector.png"></a>
 <a href="#/filters/filters?id=detect.haar"><img title="detect.haar" alt="detect.haar" src="filters/detect.haar.png"></a>
 <a href="#/filters/filters?id=detect.yolo.myyolo.v2"><img title="detect.yolo.myyolo.v2" alt="detect.yolo.myyolo.v2" src="filters/detect.yolo.myyolo.v2.png"></a>
 <a href="#/filters/filters?id=detect.yolo.myyolo.v2tiny"><img title="detect.yolo.myyolo.v2tiny" alt="detect.yolo.myyolo.v2tiny" src="filters/detect.yolo.myyolo.v2tiny.png"></a>

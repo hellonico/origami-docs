@@ -20,7 +20,7 @@ Execution Time: 0 ms
 
 ![](com.boylett.t.coincounter.coincounter.png)
 
-Execution Time: 16 ms
+Execution Time: 12 ms
 
 # origami.filters.noop
 *Load with:*
@@ -42,7 +42,7 @@ Execution Time: 0 ms
 
 ![](origami.artcodes.whitebalanceprocessor.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # annotate
 *Load with:*
@@ -53,7 +53,7 @@ Execution Time: 1 ms
 
 ![](annotate.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # backgroundsubstractor
 *Load with:*
@@ -64,7 +64,7 @@ Execution Time: 0 ms
 
 ![](backgroundsubstractor.png)
 
-Execution Time: 5 ms
+Execution Time: 3 ms
 
 # bitwisered
 *Load with:*
@@ -75,7 +75,7 @@ Execution Time: 5 ms
 
 ![](bitwisered.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # canny
 *Load with:*
@@ -86,7 +86,7 @@ Execution Time: 1 ms
 
 ![](canny.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # clojurefilter
 *Load with:*
@@ -108,7 +108,7 @@ Execution Time: 0 ms
 
 ![](colorfilter.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # colorfilter.blue
 *Load with:*
@@ -130,7 +130,7 @@ Execution Time: 0 ms
 
 ![](colorfilter.pink.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # colorfilter.red
 *Load with:*
@@ -152,7 +152,7 @@ Execution Time: 0 ms
 
 ![](colormap.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # colormap.autumn
 *Load with:*
@@ -240,7 +240,7 @@ Execution Time: 0 ms
 
 ![](colormap.magma.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # colormap.ocean
 *Load with:*
@@ -251,7 +251,7 @@ Execution Time: 0 ms
 
 ![](colormap.ocean.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # colormap.parula
 *Load with:*
@@ -306,7 +306,7 @@ Execution Time: 0 ms
 
 ![](colormap.summer.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # colormap.turbo
 *Load with:*
@@ -317,7 +317,7 @@ Execution Time: 0 ms
 
 ![](colormap.turbo.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # colormap.twilight
 *Load with:*
@@ -372,7 +372,7 @@ Execution Time: 0 ms
 
 ![](contours.png)
 
-Execution Time: 3 ms
+Execution Time: 4 ms
 
 # coolcanny
 *Load with:*
@@ -394,7 +394,7 @@ Execution Time: 1 ms
 
 ![](decolor.png)
 
-Execution Time: 209 ms
+Execution Time: 117 ms
 
 # detailenhance
 *Load with:*
@@ -405,7 +405,7 @@ Execution Time: 209 ms
 
 ![](detailenhance.png)
 
-Execution Time: 21 ms
+Execution Time: 5 ms
 
 # dynamicannotate
 *Load with:*
@@ -416,7 +416,7 @@ Execution Time: 21 ms
 
 ![](dynamicannotate.png)
 
-Execution Time: 6 ms
+Execution Time: 5 ms
 
 # edgepreserving
 *Load with:*
@@ -427,7 +427,7 @@ Execution Time: 6 ms
 
 ![](edgepreserving.png)
 
-Execution Time: 29 ms
+Execution Time: 7 ms
 
 # fps
 *Load with:*
@@ -449,7 +449,7 @@ Execution Time: 0 ms
 
 ![](fastdenoising.png)
 
-Execution Time: 210 ms
+Execution Time: 175 ms
 
 # fisheye
 *Load with:*
@@ -460,7 +460,7 @@ Execution Time: 210 ms
 
 ![](fisheye.png)
 
-Execution Time: 3 ms
+Execution Time: 1 ms
 
 # gray
 *Load with:*
@@ -504,7 +504,7 @@ Execution Time: 0 ms
 
 ![](hog.png)
 
-Execution Time: 29 ms
+Execution Time: 5 ms
 
 # httpget
 *Load with:*
@@ -526,7 +526,7 @@ Execution Time: 0 ms
 
 ![](huesaturationvalue.gotham.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # huesaturationvalue.lomo
 *Load with:*
@@ -537,7 +537,7 @@ Execution Time: 2 ms
 
 ![](huesaturationvalue.lomo.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # huesaturationvalue.nashville
 *Load with:*
@@ -548,7 +548,7 @@ Execution Time: 1 ms
 
 ![](huesaturationvalue.nashville.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # huesaturationvalue.pink
 *Load with:*
@@ -570,7 +570,7 @@ Execution Time: 0 ms
 
 ![](illumination.png)
 
-Execution Time: 90 ms
+Execution Time: 49 ms
 
 # level
 *Load with:*
@@ -581,7 +581,7 @@ Execution Time: 90 ms
 
 ![](level.png)
 
-Execution Time: 70 ms
+Execution Time: 20 ms
 
 # mosaic
 *Load with:*
@@ -614,7 +614,7 @@ Execution Time: 0 ms
 
 ![](pencilsketch.png)
 
-Execution Time: 27 ms
+Execution Time: 7 ms
 
 # resize
 *Load with:*
@@ -647,7 +647,7 @@ Execution Time: 0 ms
 
 ![](rotate.rotate270.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # rotate.rotate90
 *Load with:*
@@ -669,7 +669,7 @@ Execution Time: 0 ms
 
 ![](rotatewithmatrix.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # stilyze
 *Load with:*
@@ -680,7 +680,7 @@ Execution Time: 0 ms
 
 ![](stilyze.png)
 
-Execution Time: 74 ms
+Execution Time: 15 ms
 
 # thresh
 *Load with:*
@@ -713,7 +713,7 @@ Execution Time: 0 ms
 
 ![](artcodes.hlseditimageprocessor.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.alteringbrightness
 *Load with:*
@@ -746,7 +746,7 @@ Execution Time: 0 ms
 
 ![](brandnew.artisticfilter.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # brandnew.basiclinear
 *Load with:*
@@ -757,7 +757,7 @@ Execution Time: 2 ms
 
 ![](brandnew.basiclinear.png)
 
-Execution Time: 71 ms
+Execution Time: 24 ms
 
 # brandnew.brightcircle
 *Load with:*
@@ -768,7 +768,7 @@ Execution Time: 71 ms
 
 ![](brandnew.brightcircle.png)
 
-Execution Time: 25 ms
+Execution Time: 19 ms
 
 # brandnew.brightcircle.withhaar
 *Load with:*
@@ -790,7 +790,7 @@ Execution Time: 1 ms
 
 ![](brandnew.brushed.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.catmulrom
 *Load with:*
@@ -801,7 +801,7 @@ Execution Time: 1 ms
 
 ![](brandnew.catmulrom.png)
 
-Execution Time: 3 ms
+Execution Time: 1 ms
 
 # brandnew.comicbubble
 *Load with:*
@@ -812,7 +812,7 @@ Execution Time: 3 ms
 
 ![](brandnew.comicbubble.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # brandnew.contrastfilter
 *Load with:*
@@ -823,7 +823,7 @@ Execution Time: 0 ms
 
 ![](brandnew.contrastfilter.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.diffusinglight
 *Load with:*
@@ -834,18 +834,7 @@ Execution Time: 1 ms
 
 ![](brandnew.diffusinglight.png)
 
-Execution Time: 6 ms
-
-# brandnew.diffusinglightwithroi
-*Load with:*
-```
-{:blurSize 0, :class origami.filters.brandnew.DiffusingLightWithROI, :contrastFix 75}
-```
-*Result:*
-
-![](brandnew.diffusinglightwithroi.png)
-
-Execution Time: 1 ms
+Execution Time: 4 ms
 
 # brandnew.fakehdr
 *Load with:*
@@ -856,7 +845,7 @@ Execution Time: 1 ms
 
 ![](brandnew.fakehdr.png)
 
-Execution Time: 4 ms
+Execution Time: 2 ms
 
 # brandnew.gammacorrection
 *Load with:*
@@ -878,7 +867,7 @@ Execution Time: 0 ms
 
 ![](brandnew.ghost.png)
 
-Execution Time: 2 ms
+Execution Time: 0 ms
 
 # brandnew.highcontrast
 *Load with:*
@@ -889,7 +878,7 @@ Execution Time: 2 ms
 
 ![](brandnew.highcontrast.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # brandnew.histogram.circle
 *Load with:*
@@ -922,7 +911,7 @@ Execution Time: 1 ms
 
 ![](brandnew.histogram.gradient.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.histogram.heart
 *Load with:*
@@ -955,7 +944,7 @@ Execution Time: 1 ms
 
 ![](brandnew.histogramcircle.grey.png)
 
-Execution Time: 6 ms
+Execution Time: 4 ms
 
 # brandnew.histogramcircle.jet
 *Load with:*
@@ -966,7 +955,7 @@ Execution Time: 6 ms
 
 ![](brandnew.histogramcircle.jet.png)
 
-Execution Time: 4 ms
+Execution Time: 3 ms
 
 # brandnew.invert
 *Load with:*
@@ -977,7 +966,7 @@ Execution Time: 4 ms
 
 ![](brandnew.invert.png)
 
-Execution Time: 77 ms
+Execution Time: 28 ms
 
 # brandnew.manga2
 *Load with:*
@@ -988,7 +977,7 @@ Execution Time: 77 ms
 
 ![](brandnew.manga2.png)
 
-Execution Time: 3 ms
+Execution Time: 2 ms
 
 # brandnew.mosaical
 *Load with:*
@@ -999,7 +988,7 @@ Execution Time: 3 ms
 
 ![](brandnew.mosaical.png)
 
-Execution Time: 14 ms
+Execution Time: 4 ms
 
 # brandnew.mostcolors
 *Load with:*
@@ -1032,7 +1021,7 @@ Execution Time: 0 ms
 
 ![](brandnew.noise.png)
 
-Execution Time: 2 ms
+Execution Time: 0 ms
 
 # brandnew.picasso
 *Load with:*
@@ -1043,7 +1032,7 @@ Execution Time: 2 ms
 
 ![](brandnew.picasso.png)
 
-Execution Time: 6 ms
+Execution Time: 4 ms
 
 # brandnew.pinkforeground
 *Load with:*
@@ -1054,7 +1043,7 @@ Execution Time: 6 ms
 
 ![](brandnew.pinkforeground.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # brandnew.pixelsepia
 *Load with:*
@@ -1065,7 +1054,7 @@ Execution Time: 2 ms
 
 ![](brandnew.pixelsepia.png)
 
-Execution Time: 79 ms
+Execution Time: 25 ms
 
 # brandnew.redblack
 *Load with:*
@@ -1076,7 +1065,7 @@ Execution Time: 79 ms
 
 ![](brandnew.redblack.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # brandnew.redblack2
 *Load with:*
@@ -1098,7 +1087,7 @@ Execution Time: 1 ms
 
 ![](brandnew.reducepixels.png)
 
-Execution Time: 13 ms
+Execution Time: 4 ms
 
 # brandnew.reducepixels2
 *Load with:*
@@ -1109,7 +1098,7 @@ Execution Time: 13 ms
 
 ![](brandnew.reducepixels2.png)
 
-Execution Time: 8 ms
+Execution Time: 2 ms
 
 # brandnew.shadowfilter
 *Load with:*
@@ -1142,7 +1131,7 @@ Execution Time: 0 ms
 
 ![](brandnew.slowbw.v1.png)
 
-Execution Time: 73 ms
+Execution Time: 23 ms
 
 # brandnew.slowbw.v2
 *Load with:*
@@ -1153,7 +1142,7 @@ Execution Time: 73 ms
 
 ![](brandnew.slowbw.v2.png)
 
-Execution Time: 2 ms
+Execution Time: 0 ms
 
 # brandnew.smallmats
 *Load with:*
@@ -1164,7 +1153,7 @@ Execution Time: 2 ms
 
 ![](brandnew.smallmats.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.sobelo
 *Load with:*
@@ -1175,7 +1164,7 @@ Execution Time: 1 ms
 
 ![](brandnew.sobelo.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.queen.hotspace
 *Load with:*
@@ -1186,7 +1175,7 @@ Execution Time: 1 ms
 
 ![](brandnew.queen.hotspace.png)
 
-Execution Time: 3 ms
+Execution Time: 0 ms
 
 # brandnew.queen.queen.blackwhite
 *Load with:*
@@ -1197,7 +1186,7 @@ Execution Time: 3 ms
 
 ![](brandnew.queen.queen.blackwhite.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.queen.queen.brian
 *Load with:*
@@ -1208,7 +1197,7 @@ Execution Time: 1 ms
 
 ![](brandnew.queen.queen.brian.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.queen.queen.freddy
 *Load with:*
@@ -1230,7 +1219,7 @@ Execution Time: 0 ms
 
 ![](brandnew.queen.queen.john.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # brandnew.queen.queen.roger
 *Load with:*
@@ -1241,7 +1230,7 @@ Execution Time: 1 ms
 
 ![](brandnew.queen.queen.roger.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # cartoon.cartoon
 *Load with:*
@@ -1252,7 +1241,7 @@ Execution Time: 0 ms
 
 ![](cartoon.cartoon.png)
 
-Execution Time: 4 ms
+Execution Time: 2 ms
 
 # cartoon.cartoon2
 *Load with:*
@@ -1263,7 +1252,7 @@ Execution Time: 4 ms
 
 ![](cartoon.cartoon2.png)
 
-Execution Time: 11 ms
+Execution Time: 3 ms
 
 # cartoon.lutcartoon
 *Load with:*
@@ -1274,7 +1263,7 @@ Execution Time: 11 ms
 
 ![](cartoon.lutcartoon.png)
 
-Execution Time: 11 ms
+Execution Time: 4 ms
 
 # cartoon.manga
 *Load with:*
@@ -1286,17 +1275,6 @@ Execution Time: 11 ms
 ![](cartoon.manga.png)
 
 Execution Time: 0 ms
-
-# detect.easttextdetector
-*Load with:*
-```
-{:class origami.filters.detect.EastTextDetector}
-```
-*Result:*
-
-![](detect.easttextdetector.png)
-
-Execution Time: 138 ms
 
 # detect.haar
 *Load with:*
@@ -1318,7 +1296,7 @@ Execution Time: 1 ms
 
 ![](detect.yolo.myyolo.v2.png)
 
-Execution Time: 755 ms
+Execution Time: 518 ms
 
 # detect.yolo.myyolo.v2tiny
 *Load with:*
@@ -1329,7 +1307,7 @@ Execution Time: 755 ms
 
 ![](detect.yolo.myyolo.v2tiny.png)
 
-Execution Time: 169 ms
+Execution Time: 115 ms
 
 # detect.yolo.myyolo.v3
 *Load with:*
@@ -1340,7 +1318,7 @@ Execution Time: 169 ms
 
 ![](detect.yolo.myyolo.v3.png)
 
-Execution Time: 926 ms
+Execution Time: 800 ms
 
 # detect.yolo.myyolo.v3tiny
 *Load with:*
@@ -1351,7 +1329,7 @@ Execution Time: 926 ms
 
 ![](detect.yolo.myyolo.v3tiny.png)
 
-Execution Time: 146 ms
+Execution Time: 156 ms
 
 # detect.yolo.myyolo.v4
 *Load with:*
@@ -1362,7 +1340,7 @@ Execution Time: 146 ms
 
 ![](detect.yolo.myyolo.v4.png)
 
-Execution Time: 1205 ms
+Execution Time: 1400 ms
 
 # detect.yolo.myyolo.v6l
 *Load with:*
@@ -1373,7 +1351,7 @@ Execution Time: 1205 ms
 
 ![](detect.yolo.myyolo.v6l.png)
 
-Execution Time: 241 ms
+Execution Time: 282 ms
 
 # detect.yolo.myyolo.v6m
 *Load with:*
@@ -1384,7 +1362,7 @@ Execution Time: 241 ms
 
 ![](detect.yolo.myyolo.v6m.png)
 
-Execution Time: 214 ms
+Execution Time: 283 ms
 
 # detect.yolo.myyolo.v6n
 *Load with:*
@@ -1395,7 +1373,7 @@ Execution Time: 214 ms
 
 ![](detect.yolo.myyolo.v6n.png)
 
-Execution Time: 482 ms
+Execution Time: 291 ms
 
 # detect.yolo.myyolo.v6s
 *Load with:*
@@ -1406,7 +1384,7 @@ Execution Time: 482 ms
 
 ![](detect.yolo.myyolo.v6s.png)
 
-Execution Time: 212 ms
+Execution Time: 259 ms
 
 # detect.yolo.myyolo.v6star
 *Load with:*
@@ -1439,7 +1417,7 @@ Execution Time: 0 ms
 
 ![](dip.enhanceimagebrightness.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # dip.enhanceimagecontrast
 *Load with:*
@@ -1450,7 +1428,7 @@ Execution Time: 1 ms
 
 ![](dip.enhanceimagecontrast.png)
 
-Execution Time: 1 ms
+Execution Time: 3 ms
 
 # dip.enhanceimagesharpness
 *Load with:*
@@ -1472,7 +1450,7 @@ Execution Time: 1 ms
 
 ![](dip.erodingdilating.png)
 
-Execution Time: 1 ms
+Execution Time: 3 ms
 
 # dip.gaussianfilter
 *Load with:*
@@ -1488,13 +1466,13 @@ Execution Time: 1 ms
 # doge.glyphdetector
 *Load with:*
 ```
-{:chosenGlyphOffset 0.0, :chosenGlyphPosition nil, :class origami.filters.doge.GlyphDetector, :foundRect true, :frameSize #object[org.opencv.core.Size 0x7ddcb0dc "307x231"]}
+{:chosenGlyphOffset 0.0, :chosenGlyphPosition nil, :class origami.filters.doge.GlyphDetector, :foundRect true, :frameSize #object[org.opencv.core.Size 0xf5bf288 "115x153"]}
 ```
 *Result:*
 
 ![](doge.glyphdetector.png)
 
-Execution Time: 11 ms
+Execution Time: 44 ms
 
 # doge.levicolorfilter
 *Load with:*
@@ -1505,7 +1483,7 @@ Execution Time: 11 ms
 
 ![](doge.levicolorfilter.png)
 
-Execution Time: 1 ms
+Execution Time: 7 ms
 
 # inprogress.fake3d.v1
 *Load with:*
@@ -1516,7 +1494,7 @@ Execution Time: 1 ms
 
 ![](inprogress.fake3d.v1.png)
 
-Execution Time: 4 ms
+Execution Time: 3 ms
 
 # inprogress.fake3d.v2
 *Load with:*
@@ -1527,7 +1505,7 @@ Execution Time: 4 ms
 
 ![](inprogress.fake3d.v2.png)
 
-Execution Time: 5 ms
+Execution Time: 6 ms
 
 # inprogress.fake3d.v3
 *Load with:*
@@ -1549,7 +1527,7 @@ Execution Time: 2 ms
 
 ![](inprogress.kandinsky.png)
 
-Execution Time: 91 ms
+Execution Time: 134 ms
 
 # inprogress.kandinsky2
 *Load with:*
@@ -1560,7 +1538,7 @@ Execution Time: 91 ms
 
 ![](inprogress.kandinsky2.png)
 
-Execution Time: 94 ms
+Execution Time: 54 ms
 
 # inprogress.shadowfilter2
 *Load with:*
@@ -1571,7 +1549,7 @@ Execution Time: 94 ms
 
 ![](inprogress.shadowfilter2.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # inprogress.waves
 *Load with:*
@@ -1582,7 +1560,7 @@ Execution Time: 1 ms
 
 ![](inprogress.waves.png)
 
-Execution Time: 0 ms
+Execution Time: 5 ms
 
 # instagram.lark
 *Load with:*
@@ -1593,7 +1571,7 @@ Execution Time: 0 ms
 
 ![](instagram.lark.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # instagram.mayfair
 *Load with:*
@@ -1604,7 +1582,7 @@ Execution Time: 1 ms
 
 ![](instagram.mayfair.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # instagram.sepia.gray
 *Load with:*
@@ -1615,7 +1593,7 @@ Execution Time: 2 ms
 
 ![](instagram.sepia.gray.png)
 
-Execution Time: 2 ms
+Execution Time: 0 ms
 
 # instagram.sepia.red
 *Load with:*
@@ -1648,7 +1626,7 @@ Execution Time: 0 ms
 
 ![](instagram.sunglasses.green.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # instagram.sunglasses.purple
 *Load with:*
@@ -1670,7 +1648,7 @@ Execution Time: 0 ms
 
 ![](instagram.sunglasses.red.png)
 
-Execution Time: 0 ms
+Execution Time: 1 ms
 
 # instagram.sunglasses.salmon
 *Load with:*
@@ -1725,7 +1703,7 @@ Execution Time: 1 ms
 
 ![](instagram.vintage.png)
 
-Execution Time: 5 ms
+Execution Time: 0 ms
 
 # instagram.walden
 *Load with:*
@@ -1736,7 +1714,7 @@ Execution Time: 5 ms
 
 ![](instagram.walden.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # isaac.altmretinex
 *Load with:*
@@ -1747,7 +1725,7 @@ Execution Time: 1 ms
 
 ![](isaac.altmretinex.png)
 
-Execution Time: 191 ms
+Execution Time: 49 ms
 
 # isaac.darkchannelpriordehaze
 *Load with:*
@@ -1758,7 +1736,7 @@ Execution Time: 191 ms
 
 ![](isaac.darkchannelpriordehaze.png)
 
-Execution Time: 158 ms
+Execution Time: 52 ms
 
 # isaac.fusionenhance
 *Load with:*
@@ -1769,7 +1747,7 @@ Execution Time: 158 ms
 
 ![](isaac.fusionenhance.png)
 
-Execution Time: 497 ms
+Execution Time: 241 ms
 
 # isaac.optimizecontrastenhance
 *Load with:*
@@ -1780,7 +1758,7 @@ Execution Time: 497 ms
 
 ![](isaac.optimizecontrastenhance.png)
 
-Execution Time: 1247 ms
+Execution Time: 427 ms
 
 # isaac.removeblackscatter
 *Load with:*
@@ -1791,7 +1769,7 @@ Execution Time: 1247 ms
 
 ![](isaac.removeblackscatter.png)
 
-Execution Time: 1952 ms
+Execution Time: 555 ms
 
 # runtime.runtimefilter
 *Load with:*
@@ -1802,7 +1780,7 @@ Execution Time: 1952 ms
 
 ![](runtime.runtimefilter.png)
 
-Execution Time: 321 ms
+Execution Time: 264 ms
 
 # video.earlydaysofcolortv
 *Load with:*
@@ -1813,7 +1791,7 @@ Execution Time: 321 ms
 
 ![](video.earlydaysofcolortv.png)
 
-Execution Time: 3 ms
+Execution Time: 1 ms
 
 # video.oldfilm
 *Load with:*
@@ -1824,7 +1802,7 @@ Execution Time: 3 ms
 
 ![](video.oldfilm.png)
 
-Execution Time: 112 ms
+Execution Time: 31 ms
 
 # video.terminator
 *Load with:*
@@ -1835,7 +1813,7 @@ Execution Time: 112 ms
 
 ![](video.terminator.png)
 
-Execution Time: 77 ms
+Execution Time: 21 ms
 
 # video.vhs
 *Load with:*
@@ -1846,7 +1824,7 @@ Execution Time: 77 ms
 
 ![](video.vhs.png)
 
-Execution Time: 3 ms
+Execution Time: 1 ms
 
 # video.vhsenhanced
 *Load with:*
@@ -1857,7 +1835,7 @@ Execution Time: 3 ms
 
 ![](video.vhsenhanced.png)
 
-Execution Time: 54 ms
+Execution Time: 13 ms
 
 # video.sub.colordistortion
 *Load with:*
@@ -1868,7 +1846,7 @@ Execution Time: 54 ms
 
 ![](video.sub.colordistortion.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # video.sub.colorseparation
 *Load with:*
@@ -1890,7 +1868,7 @@ Execution Time: 0 ms
 
 ![](video.sub.gridpattern.v1.png)
 
-Execution Time: 2 ms
+Execution Time: 0 ms
 
 # video.sub.gridpattern.v2
 *Load with:*
@@ -1901,7 +1879,7 @@ Execution Time: 2 ms
 
 ![](video.sub.gridpattern.v2.png)
 
-Execution Time: 1 ms
+Execution Time: 0 ms
 
 # video.sub.randomnoise
 *Load with:*
@@ -1912,7 +1890,7 @@ Execution Time: 1 ms
 
 ![](video.sub.randomnoise.png)
 
-Execution Time: 2 ms
+Execution Time: 1 ms
 
 # video.sub.redtint
 *Load with:*
@@ -1923,7 +1901,7 @@ Execution Time: 2 ms
 
 ![](video.sub.redtint.png)
 
-Execution Time: 67 ms
+Execution Time: 24 ms
 
 # video.sub.scanlines.fat
 *Load with:*
@@ -1934,7 +1912,7 @@ Execution Time: 67 ms
 
 ![](video.sub.scanlines.fat.png)
 
-Execution Time: 42 ms
+Execution Time: 22 ms
 
 # video.sub.scanlines.simple
 *Load with:*
@@ -1945,7 +1923,7 @@ Execution Time: 42 ms
 
 ![](video.sub.scanlines.simple.png)
 
-Execution Time: 45 ms
+Execution Time: 14 ms
 
 # video.sub.scratches
 *Load with:*
@@ -1978,7 +1956,7 @@ Execution Time: 0 ms
 
 ![](video.sub.vignetting.png)
 
-Execution Time: 101 ms
+Execution Time: 25 ms
 
 # xphoto.channelgains
 *Load with:*
@@ -1989,5 +1967,49 @@ Execution Time: 101 ms
 
 ![](xphoto.channelgains.png)
 
-Execution Time: 4 ms
+Execution Time: 1 ms
+
+# xphoto.dtcdenoising
+*Load with:*
+```
+{:class origami.filters.xphoto.DtcDenoising, :psize 6, :sigma 21.0}
+```
+*Result:*
+
+![](xphoto.dtcdenoising.png)
+
+Execution Time: 1013 ms
+
+# xphoto.grayworldwb
+*Load with:*
+```
+{:class origami.filters.xphoto.GrayWorldWB, :saturationThreshold 0.9}
+```
+*Result:*
+
+![](xphoto.grayworldwb.png)
+
+Execution Time: 0 ms
+
+# xphoto.oilpainting
+*Load with:*
+```
+{:class origami.filters.xphoto.OilPainting, :code 45, :ratio 1, :size 10}
+```
+*Result:*
+
+![](xphoto.oilpainting.png)
+
+Execution Time: 3 ms
+
+# xphoto.simplewb
+*Load with:*
+```
+{:class origami.filters.xphoto.SimpleWB, :inputMax 255.0, :inputMin 0.0, :outputMax 255.0, :outputMin 0.0, :p 1.0}
+```
+*Result:*
+
+![](xphoto.simplewb.png)
+
+Execution Time: 0 ms
 
