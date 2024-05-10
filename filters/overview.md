@@ -34,6 +34,7 @@ img {
 <a href="#/filters/filters?id=annotate"><img title="annotate" alt="annotate" src="filters/annotate.png"></a>
 <a href="#/filters/filters?id=backgroundsubstractor"><img title="backgroundsubstractor" alt="backgroundsubstractor" src="filters/backgroundsubstractor.png"></a>
 <a href="#/filters/filters?id=bitwisered"><img title="bitwisered" alt="bitwisered" src="filters/bitwisered.png"></a>
+<a href="#/filters/filters?id=blacktoblue"><img title="blacktoblue" alt="blacktoblue" src="filters/blacktoblue.png"></a>
 <a href="#/filters/filters?id=canny"><img title="canny" alt="canny" src="filters/canny.png"></a>
 <a href="#/filters/filters?id=clojurefilter"><img title="clojurefilter" alt="clojurefilter" src="filters/clojurefilter.png"></a>
 <a href="#/filters/filters?id=colorfilter"><img title="colorfilter" alt="colorfilter" src="filters/colorfilter.png"></a>
@@ -192,6 +193,13 @@ img {
 <a href="#/filters/filters?id=instagram.valencia"><img title="instagram.valencia" alt="instagram.valencia" src="filters/instagram.valencia.png"></a>
 <a href="#/filters/filters?id=instagram.vintage"><img title="instagram.vintage" alt="instagram.vintage" src="filters/instagram.vintage.png"></a>
 <a href="#/filters/filters?id=instagram.walden"><img title="instagram.walden" alt="instagram.walden" src="filters/instagram.walden.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.gotham"><img title="instagram.gpt.gotham" alt="instagram.gpt.gotham" src="filters/instagram.gpt.gotham.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.lark"><img title="instagram.gpt.lark" alt="instagram.gpt.lark" src="filters/instagram.gpt.lark.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.mayfair"><img title="instagram.gpt.mayfair" alt="instagram.gpt.mayfair" src="filters/instagram.gpt.mayfair.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.melbourne"><img title="instagram.gpt.melbourne" alt="instagram.gpt.melbourne" src="filters/instagram.gpt.melbourne.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.nashville"><img title="instagram.gpt.nashville" alt="instagram.gpt.nashville" src="filters/instagram.gpt.nashville.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.shadowenhance"><img title="instagram.gpt.shadowenhance" alt="instagram.gpt.shadowenhance" src="filters/instagram.gpt.shadowenhance.png"></a>
+<a href="#/filters/filters?id=instagram.gpt.xproii"><img title="instagram.gpt.xproii" alt="instagram.gpt.xproii" src="filters/instagram.gpt.xproii.png"></a>
 <a href="#/filters/filters?id=isaac.altmretinex"><img title="isaac.altmretinex" alt="isaac.altmretinex" src="filters/isaac.altmretinex.png"></a>
 <a href="#/filters/filters?id=isaac.darkchannelpriordehaze"><img title="isaac.darkchannelpriordehaze" alt="isaac.darkchannelpriordehaze" src="filters/isaac.darkchannelpriordehaze.png"></a>
 <a href="#/filters/filters?id=isaac.fusionenhance"><img title="isaac.fusionenhance" alt="isaac.fusionenhance" src="filters/isaac.fusionenhance.png"></a>
